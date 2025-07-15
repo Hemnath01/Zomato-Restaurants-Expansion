@@ -11,7 +11,15 @@ Objectives To explore and visualize restaurant data, including ratings, cuisines
 Restaurant names Locations (cities and areas) Cuisines offered Average ratings Price range Number of votes Other relevant features The data is sourced from the Zomato API and/or publicly available datasets.
 
 **Analysis Steps Data Cleaning:** Handle missing values, duplicates, and data type conversions. 
+
+
 **Exploratory Data Analysis (EDA):** Visualize the data to uncover patterns and insights. 
+
+
 **Statistical Analysis:** Perform statistical tests to validate findings and understand relationships between variables. 
+
+
 **Visualization:** Create informative visualizations to present the analysis results effectively. 
+
+
 **Recommendations:** Based on the analysis, provide actionable insights for restaurant owners and marketers.
